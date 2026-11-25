@@ -1,0 +1,4 @@
+model,n,acc_standard_pct,acc_keyboard_pct,change_pp,became_wrong,became_right,mcnemar_p,no_letter_standard_pct,no_letter_keyboard_pct
+Sherkala-8B,1107,42.5,35.3,-7.2,149,69,6.30459564872822e-08,24.8,26.6
+KazLLM-8B,1107,40.1,33.7,-6.4,130,59,2.595224244676198e-07,16.2,16.4
+Qwen2.5-7B,1107,34.9,28.5,-6.4,144,73,1.644241710302052e-06,20.5,30.8

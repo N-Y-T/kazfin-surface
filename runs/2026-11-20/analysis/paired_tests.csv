@@ -1,0 +1,25 @@
+model,from,to,acc_from_pct,acc_to_pct,change_pp,became_wrong,became_right,mcnemar_p
+Sherkala-8B,kk,kk_kb,27.5,23.8,-3.8,28,19,0.243
+Sherkala-8B,kk,kk_cs,27.5,19.2,-8.3,34,14,0.0055
+Sherkala-8B,kk_cs,kk_cs_kb,19.2,24.2,5.0,17,29,0.1038
+Sherkala-8B,kk,kk_cs_kb,27.5,24.2,-3.3,31,23,0.3409
+Sherkala-8B,en,kk,35.0,27.5,-7.5,29,11,0.0064
+Sherkala-8B,ru,kk,31.2,27.5,-3.8,30,21,0.2624
+KazLLM-8B,kk,kk_kb,17.9,13.8,-4.2,27,17,0.1742
+KazLLM-8B,kk,kk_cs,17.9,11.7,-6.2,35,20,0.0581
+KazLLM-8B,kk_cs,kk_cs_kb,11.7,13.3,1.7,17,21,0.6271
+KazLLM-8B,kk,kk_cs_kb,17.9,13.3,-4.6,28,17,0.1352
+KazLLM-8B,en,kk,40.8,17.9,-22.9,61,6,0.0
+KazLLM-8B,ru,kk,24.6,17.9,-6.7,25,9,0.009
+Qwen2.5-7B,kk,kk_kb,20.8,14.2,-6.7,25,9,0.009
+Qwen2.5-7B,kk,kk_cs,20.8,28.8,7.9,15,34,0.0094
+Qwen2.5-7B,kk_cs,kk_cs_kb,28.8,26.7,-2.1,29,24,0.5831
+Qwen2.5-7B,kk,kk_cs_kb,20.8,26.7,5.8,18,32,0.0649
+Qwen2.5-7B,en,kk,50.8,20.8,-30.0,84,12,0.0
+Qwen2.5-7B,ru,kk,50.8,20.8,-30.0,84,12,0.0
+all three,kk,kk_kb,22.1,17.2,-4.9,80,45,0.0022
+all three,kk,kk_cs,22.1,19.9,-2.2,84,68,0.2236
+all three,kk_cs,kk_cs_kb,19.9,21.4,1.5,63,74,0.393
+all three,kk,kk_cs_kb,22.1,21.4,-0.7,77,72,0.7433
+all three,en,kk,42.2,22.1,-20.1,174,29,0.0
+all three,ru,kk,35.6,22.1,-13.5,139,42,0.0

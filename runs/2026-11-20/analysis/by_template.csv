@@ -1,0 +1,13 @@
+template,en,ru,kk,kk_kb,kk_cs,kk_cs_kb
+annuity_payment,10,8,0,0,0,3
+contract_penalty,65,40,2,2,22,18
+current_ratio,77,75,55,30,5,17
+deposit_compound,52,58,35,22,28,32
+depreciation,92,48,30,28,63,50
+fx_revaluation,5,12,18,5,8,10
+loan_balance,2,0,2,0,0,0
+loan_overpayment,0,0,0,0,0,0
+npv,23,15,3,13,15,12
+roe,95,82,75,73,55,72
+simple_interest,63,67,42,33,35,40
+vat_extraction,23,22,3,0,7,3

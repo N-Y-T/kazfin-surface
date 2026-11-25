@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+/preds/
+/results/
+/bundle/
+results.zip
